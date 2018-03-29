@@ -1,6 +1,11 @@
 # low_ploy
 ## result
-!(/input_image2.jpg)
+![](input_image2.jpg)
+![](result_image2.jpg)
+![](input_image5.jpg)
+![](result_image5.jpg)
+![](input_image7.jpg)
+![](result_image7.jpg)
 ## requirement
 opencv
 ## create an object
