@@ -23,3 +23,5 @@ random_amount is the number of random points.<br>
 call the member function show(), like t.show()
 ## save the result image
 call the member function save(), like t.save()
+## detail
+[我的博客](www.zerahhah.com/article/12)
