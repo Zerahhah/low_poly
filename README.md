@@ -1,6 +1,6 @@
 # low_ploy
 ## result
-
+!(/input_image2.jpg)
 ## requirement
 opencv
 ## create an object
